@@ -1,4 +1,5 @@
 import './nav.css'
+import Pyq from './pyq'
 export default function Nav() {
 return (
     <>

@@ -8,9 +8,12 @@ function App() {
 
   return (
     <>
+    <div className="main">
+
     <Nav></Nav>
     <Hero></Hero>
-    <Footer></Footer>
+    </div>
+    
     
     </>
   )

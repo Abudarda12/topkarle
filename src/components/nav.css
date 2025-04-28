@@ -6,13 +6,10 @@
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1rem;
-    position: relative;
-    z-index: 1000;
     border-radius: 5px;
     margin: 0 1rem;
     height: 50px;
     width: 90%;
-    margin: 0 auto;
 }
 .nav a {
     color: black;
